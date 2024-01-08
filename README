@@ -65,11 +65,10 @@ for Windows is shipped, but it must be compiled before use on UNIX.
 
 
 The latest version is always available from:
-http://github.com/tomszilagyi/gen_serial
+https://git.hq.sig7.se/gen_serial.git
 
-Feedback, patches, pull requests welcome.
+Feedback and patches are welcome.
 
 Have fun!
 
 		Tom Szilagyi
-		tomszilagyi@gmail.com
